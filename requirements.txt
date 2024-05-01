@@ -1,0 +1,10 @@
+jupyter
+pandas
+numpy
+openpyxl
+plumbum
+matplotlib
+geopandas
+contextily
+mpl-tools
+scipy
