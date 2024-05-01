@@ -40,6 +40,6 @@ The communities data maps against 8 burdens, but does not provide a flag in the 
 | Haviland Software, LLC | Unified Ground |
 | -- | -- |
 | [havilandsoftware.com](https://www.havilandsoftware.com) | [unifiedground.com](https://www.unifiedground.com) |
-| <img src="./assets/haviland-software-logo.png" alt="Haviland Software Logo" width="60%"/> | <img src="./assets/unified-ground-logo.jpg" alt="Unified Ground Logo" width="20%"/> |
+| <img src="./assets/haviland-software-logo.png" alt="Haviland Software Logo" width="60%"/> | <img src="./assets/unified-ground-logo.jpg" alt="Unified Ground Logo" width="60%"/> |
 
 
